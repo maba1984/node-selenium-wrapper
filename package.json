@@ -1,0 +1,18 @@
+{
+  "name": "selenium-wrapper",
+  "version": "0.0.1",
+  "private":true,
+  "description": "Selenium standalone jar download",
+  "main": "install.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maba1984/node-selenium-wrapper.git"
+  },
+  "dependencies": {
+    "adm-zip": "0.2.1",
+    "kew": "~0.1.7",
+    "npmconf": "0.0.24",
+    "mkdirp": "0.3.5",
+    "rimraf": "~2.0.2"
+  }
+}
