@@ -3,10 +3,13 @@
   "version": "0.0.1",
   "private":true,
   "description": "Selenium standalone jar download",
-  "main": "install.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/maba1984/node-selenium-wrapper.git"
+  },
+  "scripts": {
+    "install": "index.js"
   },
   "dependencies": {
     "adm-zip": "0.2.1",
