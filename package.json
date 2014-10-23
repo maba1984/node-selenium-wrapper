@@ -9,7 +9,7 @@
     "url": "https://github.com/maba1984/node-selenium-wrapper.git"
   },
   "scripts": {
-    "install": "index.js"
+    "install": "node index.js"
   },
   "dependencies": {
     "adm-zip": "0.2.1",
